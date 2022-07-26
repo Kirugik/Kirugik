@@ -4,3 +4,5 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kirugik&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kirugik&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kirugik&theme=vue-dark)
